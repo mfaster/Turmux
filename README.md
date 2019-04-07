@@ -1,9 +1,10 @@
-#python3 - python3 new 17/3/2019
+#บอทลาย By GETPRO
 
-NEW 17/3/2019
---------------------------------
+NEW 08/4/2019
+
+
 =====Termux=====
----------------------------------
+
 - pkg update
 - pkg upgrade
 - pkg install python
@@ -38,12 +39,15 @@ NEW 17/3/2019
 - git clone https://github.com/Cupzaa/Turmux.git
 - cd Bot
 - python3 k.py
------------------------------------------------------
 
-?????? ????   =      https://www.youtube.com/watch?v=nLWE6TMCwIQ
 
--------------------------------------------------------
 
-Add Line =  line.me/R/ti/p/~yim_cjs
+#=============================================================
 
--------------------------------------------------------
+โหลดโทเคน = git clone https://github.com/Cupzaa/QRtoken.git
+
+ติดตาม ช่อง = https://www.youtube.com/watch?v=nLWE6TMCwIQ
+
+Add Line = https://line.me/R/ti/p/~yim_cjs
+
+#=============================================================
