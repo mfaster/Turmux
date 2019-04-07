@@ -38,7 +38,7 @@ NEW 08/4/2019
 - pip3 install antolib
 - git clone https://github.com/Cupzaa/Turmux.git
 - cd Bot
-- python3 k.py
+- python3 iii.py
 
 
 
